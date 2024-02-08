@@ -1,0 +1,48 @@
+! Zero Template 1 
+- box-sizing
+- how to google fonts: 
+  - visit: https://fonts.google.com/
+  - choose font family & sizes
+  - get html link
+  - put css properties
+- how to use icons from font-awesome:
+  - visit: https://fontawesome.com/download
+  - download the free for web version
+  - unzip the file
+  - copy the `webfonts` directory, and paste it in your project
+    ? put that directory in the same level as the css directory
+  - copy the `all.min.css` file in your project & link to your html
+    ? put it inside your css directory (it calls 'webfonts' with '../webfonts')
+    ? so make sure you structured your project properly
+- flex
+- flex-basis
+- position
+- psuedo classes
+- transition 
+- z-index
+- display: block-inline
+- scroll-behavior
+- var(--color, fallback value)
+- flex-basis: initial length
+- aspect-ratio: ration of height to width
+
+! Zero Template 2 
+- transition
+- svg
+- flex-basis
+- inline-style
+- child selector '>'
+- block element and modifier
+- css attr()
+- <q> quote tag
+- width: fit-content
+- caret-color
+- ::placeholder
+- address
+- order
+
+
+! Some Weird Notes
+- extra bold => font-weight = 800
+- you may display elements as (block) to fit into the parent with it's padding
+  => Template 2 (header nav ul li a {  })
